@@ -1,10 +1,13 @@
+body {
+    background-color: azure;
+}
 h1 {
     text-align: center;
+    padding: 10px;
 }
+    
 h3 {
+    
     text-align: center;
     margin: auto;
-}
-body {
-    background-color: aqua;
 }
