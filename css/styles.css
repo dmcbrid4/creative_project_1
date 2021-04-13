@@ -10,6 +10,14 @@ h3 {
     padding: 20px;
 }
 
+h4 {
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
 .desert {
     display: block;
     margin-left: auto;
