@@ -2,14 +2,22 @@ body {
     background-color: azure;
 }
 h1 {
+    font-family: 'Trocchi', serif;
     text-align: center;
     padding: 10px;
+    font-family: 'Trocchi', serif;
+
+
 }
     
 h3 {
+    font-family: 'Trocchi', serif;
     padding: 30px;
     text-align: center;
     margin: auto;
+    font-family: 'Trocchi', serif;
+
+
 }
 
 .portfolio {

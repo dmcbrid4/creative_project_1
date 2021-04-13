@@ -2,16 +2,19 @@ body {
     background-color: azure;
 }
 h1 {
+    font-family: 'Trocchi', serif;
     text-align: center;
     padding: 10px
 }
 h2, h3 {
+    font-family: 'Trocchi', serif;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
     width: 95%;
 }
 p {
+    font-family: 'Trocchi', serif;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
